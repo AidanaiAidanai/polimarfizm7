@@ -27,7 +27,7 @@ public class Main {
         System.out.println("Types "+cow.getClass().getSimpleName());
         cow.met();
 
-        
+
         overload(1,2,3,4);
         over("Aidana", "Mamatberdieva");
     }
